@@ -2,7 +2,7 @@
 
 #### computer engineering student passionate about technology and coffee!!
 
-<img width="100%" src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif"/>
+<img src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif"/>
 
 ```python
   class Me:
@@ -14,5 +14,5 @@
         self.interests = ["Web-Development", "Data-Science", "AI"]
         self.comments = "I love kdramas and books :)"
 ```
-<img width="50%" src="https://i.pinimg.com/originals/76/cd/8a/76cd8a854d7e19e247a6e2594b5a80ac.gif"/>
+<img src="https://i.pinimg.com/originals/76/cd/8a/76cd8a854d7e19e247a6e2594b5a80ac.gif"/>
 
