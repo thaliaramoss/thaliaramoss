@@ -2,7 +2,7 @@
 
 a computer engineering student passionate about technology and coffee!!
 
-<img src="https://i.pinimg.com/564x/8e/b9/11/8eb911eea5fea19da58de6d811877863.jpg"/>
+<img src="https://i.pinimg.com/originals/33/65/ca/3365cae717ad6d0138973a8d5edfdf0a.gif"/>
 
 ```python
   class Me:
