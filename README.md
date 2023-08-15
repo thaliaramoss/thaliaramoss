@@ -2,5 +2,5 @@
 
 ### A computer engineering student passionate about technology :>
 
-<img src="![image](https://github.com/thaliaramoss/thaliaramoss/assets/97910591/47ae5cc4-9448-4443-b512-28a00c906fb5)"/>
+<img src="https://i.pinimg.com/originals/76/cd/8a/76cd8a854d7e19e247a6e2594b5a80ac.gif"/>
 
