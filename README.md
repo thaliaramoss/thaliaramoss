@@ -17,7 +17,7 @@
 - I´m 19 yo
 - I'm in the fourth semester of computer engineering at UFPA
 - I love coffee, books and kdramas
-- I´m passionate abou data science and I want to become a data scientist in the future 🤞🏻
+- I´m passionate about data science and I want to become a data scientist in the future 🤞🏻
 
 
 #### 👋🏻 let´s connect !!!
