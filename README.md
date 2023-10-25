@@ -22,6 +22,6 @@
 
 #### 👋🏻 let´s connect !!!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffafcc&color:ff5d8f)](mailto:thzliaramos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffafcc&color:ff5d8f)]([www.linkedin.com/in/thaliaramoss](https://www.linkedin.com/in/thaliaramoss/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffafcc&color:ff5d8f)](https://www.linkedin.com/in/thaliaramoss)
 
 <img width="100%" height="400px" src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif"/>
