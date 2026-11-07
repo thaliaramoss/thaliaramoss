@@ -1,26 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+MonoPause&weight=700&size=24&duration=4999&pause=1000&color=ffafcc&&vCenter=true&width=435&lines=Hi!+I%C2%B4m+Thalia++%F0%9F%9A%80)](https://git.io/typing-svg)
----
-###  I'm a computer engineering student who loves technology :)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaliaramoss&hide_title=true&theme=transparent&bg_color=000&border_color=ffafcc&show_icons=true&icon_color=ffafcc&title_color=ffafcc&text_color=fff)
-
-### 👩🏻‍💻 skills
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=ffafcc)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=ffafcc)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=ffafcc)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ffafcc)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=ffafcc)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=ffafcc)
-
-#### 🪩 facts about me !
-- I´m 19 yo
-- I'm in the fourth semester of computer engineering at UFPA
-- I love coffee, books and kdramas
-- I´m passionate about data science and I want to become a data scientist in the future 🤞🏻
-
-
-#### 👋🏻 let´s connect !!!
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffafcc&color:ff5d8f)](mailto:thzliaramos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffafcc&color:ff5d8f)](https://www.linkedin.com/in/thaliaramoss)
-
-<img width="100%" height="400px" src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif"/>
+### Hi, I'm Thalia 👋
+ 
+Computer engineering student from Brazil and BI / data analyst, with experience in mining, banking and luxury supply chain. I like taking messy data and manual processes and turning them into dashboards, pipelines and tools people actually use.
+ 
+**What I do**
+ 
+- 📊 **BI & reporting:** dashboards and KPIs, report migration, gathering requirements with business teams
+- 🔧 **Data engineering:** pipelines on Databricks (Medallion architecture), data access governance
+- ⚙️ **Automation:** turning spreadsheet-based processes into apps and automated flows
+- 🤖 **ML & AI:** predictive models and LLM-based tools
+**Tools**
+ 
+`Python` `SQL` `R` `Databricks` `Power BI` `Excel / VBA` `Power Automate` `Power Apps` `Claude API` `React` `Angular` `Figma` `Jira`
+ 
+**Languages:** Portuguese · French · English · Spanish
+ 
+📫 [LinkedIn](https://www.linkedin.com/in/thaliaaramos/) · thzliaramos@gmail.com
+ 
