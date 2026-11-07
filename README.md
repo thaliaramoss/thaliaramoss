@@ -8,6 +8,7 @@ Computer engineering student from Brazil and BI / data analyst, with experience 
 - 🔧 **Data engineering:** pipelines on Databricks (Medallion architecture), data access governance
 - ⚙️ **Automation:** turning spreadsheet-based processes into apps and automated flows
 - 🤖 **ML & AI:** predictive models and LLM-based tools
+
 **Tools**
  
 `Python` `SQL` `R` `Databricks` `Power BI` `Excel / VBA` `Power Automate` `Power Apps` `Claude API` `React` `Angular` `Figma` `Jira`
